@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Curriculum</class>
+ <widget class="QWidget" name="Curriculum">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>770</width>
+    <height>600</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QTableWidget" name="tableWidget">
+   <property name="geometry">
+    <rect>
+     <x>10</x>
+     <y>10</y>
+     <width>751</width>
+     <height>531</height>
+    </rect>
+   </property>
+   <property name="rowCount">
+    <number>12</number>
+   </property>
+   <property name="columnCount">
+    <number>7</number>
+   </property>
+   <attribute name="horizontalHeaderDefaultSectionSize">
+    <number>100</number>
+   </attribute>
+   <attribute name="horizontalHeaderMinimumSectionSize">
+    <number>100</number>
+   </attribute>
+   <attribute name="verticalHeaderDefaultSectionSize">
+    <number>70</number>
+   </attribute>
+   <attribute name="verticalHeaderMinimumSectionSize">
+    <number>70</number>
+   </attribute>
+   <row/>
+   <row/>
+   <row/>
+   <row/>
+   <row/>
+   <row/>
+   <row/>
+   <row/>
+   <row/>
+   <row/>
+   <row/>
+   <row/>
+   <column>
+    <property name="text">
+     <string>Mon</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Tue</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Wed</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Thur</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Fri</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Sat</string>
+    </property>
+   </column>
+   <column>
+    <property name="text">
+     <string>Sun</string>
+    </property>
+   </column>
+  </widget>
+  <widget class="QPushButton" name="pushButtonSave">
+   <property name="geometry">
+    <rect>
+     <x>340</x>
+     <y>550</y>
+     <width>93</width>
+     <height>28</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>保存</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

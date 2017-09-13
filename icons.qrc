@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/add.png</file>
+        <file>resources/curriculum-checked.png</file>
+        <file>resources/curriculum-unchecked.png</file>
+        <file>resources/del.png</file>
+        <file>resources/save.png</file>
+        <file>resources/tray.png</file>
+        <file>resources/curriculum-hover.png</file>
+        <file>resources/dididi.wav</file>
+        <file>resources/event-checked.png</file>
+        <file>resources/event-hover.png</file>
+        <file>resources/event-unchecked .png</file>
+        <file>resources/note-checked .png</file>
+        <file>resources/note-hover .png</file>
+        <file>resources/note-unchecked .png</file>
+    </qresource>
+</RCC>
