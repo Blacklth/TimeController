@@ -1,2 +1,2 @@
 # TimeController
-一个基于qt开发的时间管理练手项目
+a program created by using qt creator
